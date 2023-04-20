@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "213182961253",
+    "project_id": "wefellowship-dev",
+    "storage_bucket": "wefellowship-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213182961253:android:c92a94bfbe98c7520cd88c",
+        "android_client_info": {
+          "package_name": "com.relight.wefellowship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213182961253-j7ln55qus6scahhom0pqt2jpdool53lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYsfUFMqvX7Z0Pn1zgTbLZBP4dLfaXss8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213182961253-j7ln55qus6scahhom0pqt2jpdool53lv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213182961253-6iuhf86e6vnjoivqj1194c8si49152h8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wefellowship"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
